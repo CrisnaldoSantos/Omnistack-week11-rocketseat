@@ -21,10 +21,10 @@ Aplicação full stack com Node, React e React Native desenvolvida durante a sem
 ## Versão Mobile:
 
 #### Splash Screen
-<img src="/screenshots/Be the Hero Mobile 1.png" alt ="Splash Screen"/>
+<img src="/screenshots/Be the Hero Mobile 1.png" alt ="Splash Screen" width="350px" height="700px"/>
 
 #### Listagem dos casos
-<img src="/screenshots/Be the Hero Mobile 2.png" alt ="Listagem dos casos"/>
+<img src="/screenshots/Be the Hero Mobile 2.png" alt ="Listagem dos casos" width="350px" height="700px"/>
 
 #### Detalhes do caso
-<img src="/screenshots/Be the Hero Mobile 3.png" alt ="Detalhes do caso"/>
+<img src="/screenshots/Be the Hero Mobile 3.png" alt ="Detalhes do caso" width="350px" height="700px"/>
